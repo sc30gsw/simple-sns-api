@@ -17,12 +17,6 @@
     "@types/identicon.js": "^2.3.1",
     "@types/jsonwebtoken": "^9.0.2",
     "@types/node": "^20.5.0",
-    "@typescript-eslint/eslint-plugin": "^6.4.0",
-    "@typescript-eslint/parser": "^6.4.0",
-    "eslint-config-prettier": "^9.0.0",
-    "eslint-plugin-simple-import-sort": "^10.0.0",
-    "npm-run-all": "^4.1.5",
-    "prettier": "^3.0.2",
     "ts-node": "^10.9.1",
     "typescript": "^5.1.6"
   },
