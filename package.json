@@ -7,6 +7,9 @@
     "build": "tsc",
     "start": "nodemon --exec ts-node ./src/server.ts"
   },
+  "engines": {
+    "node": ">=20.5.1"
+  },
   "keywords": [],
   "author": "",
   "license": "MIT",
